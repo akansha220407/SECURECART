@@ -1,0 +1,37 @@
+{
+  "cartItems": [
+    {
+      "id": 1,
+      "productId": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "price": 89.99,
+      "originalPrice": 129.99,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+      "quantity": 2,
+      "color": "Black",
+      "size": "One Size"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "name": "Smart Fitness Watch",
+      "price": 199.99,
+      "originalPrice": 249.99,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop",
+      "quantity": 1,
+      "color": "Blue",
+      "size": "Medium"
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "name": "Premium Cotton T-Shirt",
+      "price": 29.99,
+      "originalPrice": 39.99,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop",
+      "quantity": 3,
+      "color": "White",
+      "size": "Large"
+    }
+  ]
+}

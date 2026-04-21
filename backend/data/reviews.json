@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "productId": 1,
+      "user": "John D.",
+      "rating": 5,
+      "date": "2024-01-15",
+      "comment": "Excellent sound quality and very comfortable to wear for long periods. The noise cancellation works perfectly and the battery life is impressive.",
+      "verified": true,
+      "helpful": 12
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "user": "Sarah M.",
+      "rating": 4,
+      "date": "2024-01-10",
+      "comment": "Great headphones, battery life is impressive. Only giving 4 stars because the case could be better quality.",
+      "verified": true,
+      "helpful": 8
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "user": "Mike R.",
+      "rating": 5,
+      "date": "2024-01-05",
+      "comment": "Perfect for my daily commute. Noise cancellation works amazingly well and the sound quality is crystal clear.",
+      "verified": true,
+      "helpful": 15
+    },
+    {
+      "id": 4,
+      "productId": 2,
+      "user": "Emily T.",
+      "rating": 4,
+      "date": "2024-01-12",
+      "comment": "Great fitness watch with accurate heart rate monitoring. The GPS tracking is spot on and battery lasts a week.",
+      "verified": true,
+      "helpful": 6
+    },
+    {
+      "id": 5,
+      "productId": 2,
+      "user": "David L.",
+      "rating": 5,
+      "date": "2024-01-08",
+      "comment": "This watch has transformed my fitness routine. The sleep tracking is incredibly accurate and the app integration is seamless.",
+      "verified": true,
+      "helpful": 9
+    },
+    {
+      "id": 6,
+      "productId": 3,
+      "user": "Lisa K.",
+      "rating": 5,
+      "date": "2024-01-14",
+      "comment": "Super comfortable and soft fabric. The fit is perfect and it washes well without losing shape.",
+      "verified": true,
+      "helpful": 11
+    },
+    {
+      "id": 7,
+      "productId": 3,
+      "user": "Tom B.",
+      "rating": 4,
+      "date": "2024-01-11",
+      "comment": "Good quality t-shirt, comfortable to wear. The color is exactly as shown in the picture.",
+      "verified": true,
+      "helpful": 4
+    },
+    {
+      "id": 8,
+      "productId": 4,
+      "user": "Rachel S.",
+      "rating": 5,
+      "date": "2024-01-09",
+      "comment": "Beautiful coffee table that perfectly matches our living room decor. Assembly was straightforward and it's very sturdy.",
+      "verified": true,
+      "helpful": 7
+    },
+    {
+      "id": 9,
+      "productId": 5,
+      "user": "Alex M.",
+      "rating": 4,
+      "date": "2024-01-13",
+      "comment": "Great running shoes with excellent cushioning. They're lightweight and provide good support for long runs.",
+      "verified": true,
+      "helpful": 13
+    },
+    {
+      "id": 10,
+      "productId": 6,
+      "user": "Chris P.",
+      "rating": 4,
+      "date": "2024-01-07",
+      "comment": "Fast wireless charging that works perfectly with my phone. The LED indicator is helpful and it has a nice non-slip base.",
+      "verified": true,
+      "helpful": 5
+    },
+    {
+      "id": 11,
+      "productId": 7,
+      "user": "Maria G.",
+      "rating": 5,
+      "date": "2024-01-16",
+      "comment": "Beautiful leather wallet with excellent craftsmanship. The RFID protection gives me peace of mind and it has plenty of card slots.",
+      "verified": true,
+      "helpful": 8
+    },
+    {
+      "id": 12,
+      "productId": 8,
+      "user": "Kevin H.",
+      "rating": 4,
+      "date": "2024-01-06",
+      "comment": "Good quality case that provides excellent protection. The raised edges protect the screen well and it has a nice grip.",
+      "verified": true,
+      "helpful": 6
+    }
+  ]
+}

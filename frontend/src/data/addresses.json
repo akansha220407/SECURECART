@@ -1,0 +1,40 @@
+{
+  "addresses": [
+    {
+      "id": 1,
+      "type": "Home",
+      "name": "John Doe",
+      "address": "123 Civil Lines",
+      "city": "Nagpur",
+      "state": "MH",
+      "zipCode": "440001",
+      "country": "India",
+      "phone": "+91 98765 43210",
+      "isDefault": true
+    },
+    {
+      "id": 2,
+      "type": "Work",
+      "name": "John Doe",
+      "address": "456 IT Park",
+      "city": "Nagpur",
+      "state": "MH",
+      "zipCode": "440013",
+      "country": "India",
+      "phone": "+91 98765 43211",
+      "isDefault": false
+    },
+    {
+      "id": 3,
+      "type": "Other",
+      "name": "John Doe",
+      "address": "789 Holiday Resort",
+      "city": "Mumbai",
+      "state": "MH",
+      "zipCode": "400001",
+      "country": "India",
+      "phone": "+91 98765 43212",
+      "isDefault": false
+    }
+  ]
+}

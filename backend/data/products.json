@@ -1,0 +1,232 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "price": 7469.17,
+      "originalPrice": 10787.17,
+      "rating": 4.5,
+      "reviews": 128,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&h=600&fit=crop"
+      ],
+      "category": "Electronics",
+      "brand": "AudioTech",
+      "description": "High-quality wireless headphones with noise cancellation technology. Perfect for music lovers and professionals who need crystal clear sound quality.",
+      "features": [
+        "Active Noise Cancellation",
+        "40-hour battery life",
+        "Bluetooth 5.0",
+        "Built-in microphone",
+        "Foldable design",
+        "Comfortable ear cushions"
+      ],
+      "colors": ["Black", "White", "Blue"],
+      "sizes": ["One Size"],
+      "inStock": true,
+      "sku": "ATH-001",
+      "weight": "250g"
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Watch",
+      "price": 16599.17,
+      "originalPrice": 20749.17,
+      "rating": 4.3,
+      "reviews": 89,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&h=600&fit=crop"
+      ],
+      "category": "Electronics",
+      "brand": "FitTech",
+      "description": "Advanced fitness tracking with heart rate monitoring, GPS, and smartphone connectivity.",
+      "features": [
+        "Heart rate monitoring",
+        "GPS tracking",
+        "Water resistant",
+        "7-day battery life",
+        "Smartphone sync",
+        "Sleep tracking"
+      ],
+      "colors": ["Black", "Silver", "Blue"],
+      "sizes": ["Small", "Medium", "Large"],
+      "inStock": true,
+      "sku": "FTW-002",
+      "weight": "45g"
+    },
+    {
+      "id": 3,
+      "name": "Premium Cotton T-Shirt",
+      "price": 2489.17,
+      "originalPrice": 3319.17,
+      "rating": 4.7,
+      "reviews": 256,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=600&h=600&fit=crop"
+      ],
+      "category": "Clothing",
+      "brand": "StyleCo",
+      "description": "Comfortable and stylish cotton t-shirt perfect for everyday wear.",
+      "features": [
+        "100% organic cotton",
+        "Breathable fabric",
+        "Multiple colors available",
+        "Machine washable",
+        "Slim fit design"
+      ],
+      "colors": ["White", "Black", "Gray", "Navy"],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "inStock": true,
+      "sku": "STC-003",
+      "weight": "180g"
+    },
+    {
+      "id": 4,
+      "name": "Modern Coffee Table",
+      "price": 24899.17,
+      "originalPrice": 33199.17,
+      "rating": 4.6,
+      "reviews": 67,
+      "image": "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&h=600&fit=crop"
+      ],
+      "category": "Home",
+      "brand": "HomeStyle",
+      "description": "Elegant modern coffee table with clean lines and durable construction.",
+      "features": [
+        "Solid wood construction",
+        "Modern design",
+        "Easy assembly",
+        "Sturdy legs",
+        "Perfect for living room"
+      ],
+      "colors": ["Walnut", "Oak", "White"],
+      "sizes": ["Standard"],
+      "inStock": true,
+      "sku": "HST-004",
+      "weight": "15kg"
+    },
+    {
+      "id": 5,
+      "name": "Running Shoes",
+      "price": 6639.17,
+      "originalPrice": 8299.17,
+      "rating": 4.4,
+      "reviews": 189,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&h=600&fit=crop"
+      ],
+      "category": "Sports",
+      "brand": "RunFast",
+      "description": "Lightweight running shoes with superior cushioning and breathable mesh upper.",
+      "features": [
+        "Lightweight design",
+        "Breathable mesh",
+        "Cushioned sole",
+        "Reflective details",
+        "Durable outsole"
+      ],
+      "colors": ["Black/Red", "White/Blue", "Gray/Orange"],
+      "sizes": ["7", "8", "9", "10", "11", "12"],
+      "inStock": true,
+      "sku": "RFS-005",
+      "weight": "280g"
+    },
+    {
+      "id": 6,
+      "name": "Wireless Charger",
+      "price": 4149.17,
+      "originalPrice": 5809.17,
+      "rating": 4.2,
+      "reviews": 94,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1601972599720-36938d4ecd31?w=600&h=600&fit=crop"
+      ],
+      "category": "Electronics",
+      "brand": "ChargeTech",
+      "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+      "features": [
+        "15W fast charging",
+        "Qi compatible",
+        "LED indicator",
+        "Non-slip base",
+        "Overcharge protection"
+      ],
+      "colors": ["Black", "White"],
+      "sizes": ["Standard"],
+      "inStock": true,
+      "sku": "CTW-006",
+      "weight": "120g"
+    },
+    {
+      "id": 7,
+      "name": "Leather Wallet",
+      "price": 3319.17,
+      "originalPrice": 4979.17,
+      "rating": 4.8,
+      "reviews": 156,
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1627123424574-724758594e93?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&h=600&fit=crop"
+      ],
+      "category": "Clothing",
+      "brand": "LeatherCraft",
+      "description": "Genuine leather wallet with multiple card slots and RFID protection.",
+      "features": [
+        "Genuine leather",
+        "RFID protection",
+        "Multiple card slots",
+        "Coin pocket",
+        "Bifold design"
+      ],
+      "colors": ["Brown", "Black", "Tan"],
+      "sizes": ["Standard"],
+      "inStock": true,
+      "sku": "LCW-007",
+      "weight": "85g"
+    },
+    {
+      "id": 8,
+      "name": "Smartphone Case",
+      "price": 1659.17,
+      "originalPrice": 2489.17,
+      "rating": 4.1,
+      "reviews": 203,
+      "image": "https://images.unsplash.com/photo-1603313011108-4f2d0b4b4b4b?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1603313011108-4f2d0b4b4b4b?w=600&h=600&fit=crop"
+      ],
+      "category": "Electronics",
+      "brand": "CasePro",
+      "description": "Durable smartphone case with shock absorption and raised edges for screen protection.",
+      "features": [
+        "Shock absorption",
+        "Raised edges",
+        "Precise cutouts",
+        "Non-slip grip",
+        "Lightweight design"
+      ],
+      "colors": ["Clear", "Black", "Blue", "Pink"],
+      "sizes": ["iPhone 13", "iPhone 14", "Samsung S21"],
+      "inStock": true,
+      "sku": "CPC-008",
+      "weight": "45g"
+    }
+  ]
+}
